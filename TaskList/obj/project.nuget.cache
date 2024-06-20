@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o1XXNdToo84=",
+  "success": true,
+  "projectFilePath": "C:\\dev\\.Net-Study\\TaskList\\TaskList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ricardo\\.nuget\\packages\\mmlib.rapidprototyping\\1.3.0\\mmlib.rapidprototyping.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
